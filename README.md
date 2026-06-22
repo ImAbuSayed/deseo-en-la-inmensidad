@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Deseo en la inmensidad |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-la-inmensidad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Deseo en la inmensidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-inmensidad/) |
+| **Get License** | [License this song: Deseo en la inmensidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-inmensidad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Mami, tus ojos me dicen que quieres jugar
-> Esta noche oscura te voy a llevar
-> Un beso en el cuello y la mente se apaga
-> Tu cuerpo perfecto, mi alma reclama
+> Deseo en la inmensidad
+> Tu cuerpo llama sin piedad
+> Noches de fuego y libertad
+> Solo tú y mi intimidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
