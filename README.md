@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tus ojos me dicen que quieres jugar
+> Esta noche oscura te voy a llevar
+> Un beso en el cuello y la mente se apaga
+> Tu cuerpo perfecto, mi alma reclama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
