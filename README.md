@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-en-la-inmensidad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Deseo en la inmensidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-inmensidad/) |
+| **Get License** | [Commercial Licensing for Deseo en la inmensidad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-en-la-inmensidad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `19697e89d50c731a444dea810635d468c8b274c891b2b79aa7084754192561d7` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
